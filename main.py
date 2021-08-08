@@ -23,4 +23,4 @@ async def bump_activeD5032C(ctx):
         await asyncio.sleep(7200)
 
 
-client.run('ODU3MDY4Nzc5NDE5MDc0NjAy.YNKNgA.jRL7f9xQ32O0hZb0f8sFvvaAkIk')
+client.run('YOUR TOKEN!')
